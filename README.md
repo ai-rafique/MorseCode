@@ -6,14 +6,6 @@ Instead of dots and dashes, I have used 0 and 1.
 So far the encode and decode process uses lists to function.
 
 
-___  ___
-|  \/  |
-| .  . | ___  _ __ ___  ___ 
-| |\/| |/ _ \| '__/ __|/ _ \
-| |  | | (_) | |  \__ \  __/
-\_|  |_/\___/|_|  |___/\___|
-
-
 Do you wanna do this ? (y or n) :y
 a) Get Keys
 b) Encode
