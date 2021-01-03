@@ -18,6 +18,7 @@ Do you wanna do this ? (y or n) :y
 a) Get Keys
 b) Encode
 c) Decode
+
 Which operation do you wish to perform ? :
 
 
@@ -32,8 +33,11 @@ Do you wanna do this ? (y or n) :y
 a) Get Keys
 b) Encode
 c) Decode
+
 Which operation do you wish to perform ? :b
+
 Enter some text please : an apple a day keeps the doctor away
+
 ['01', '10', ' ', '01', '0110', '0110', '0100', '0', ' ', '01', ' ', '100', '01', '1011', ' ', '101', '0', '0', '0110', '000', ' ', '1', '0000', '0', ' ', '100', '111', '1010', '1', '111', '010', ' ', '01', '011', '01', '1011']
 
 ### Decode
@@ -41,7 +45,9 @@ Do you wanna do this ? (y or n) :y
 a) Get Keys
 b) Encode
 c) Decode
+
 Which operation do you wish to perform ? :c
+
 Enter some text please : 
 
 Here is an example you may use :) 
